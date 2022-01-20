@@ -82,10 +82,10 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🖥️ Deploy Now 🖥️', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('Movie group🎬', url="https://t.me/wwmoviesgroup")
                     ],
                     [
-                        InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat='')
+                        InlineKeyboardButton('Movie Channel⚡', url="https://t.me/+ns5r2sWkhm80MWY1")
                     ]
                     ]
                 await bot.send_cached_media(
