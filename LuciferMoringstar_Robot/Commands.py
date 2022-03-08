@@ -82,7 +82,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('Movie group🎬', url="https://t.me/wwmoviesgroup")
+                        InlineKeyboardButton('Movie group🎬', url="https://t.me/worldwide_moviesgroup")
                     ],
                     [
                         InlineKeyboardButton('Movie Channel⚡', url="https://t.me/+ns5r2sWkhm80MWY1")
